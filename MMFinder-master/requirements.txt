@@ -1,0 +1,7 @@
+flask
+pillow
+pymongo
+scikit-learn
+Tensorflow
+Keras
+face_recognition
